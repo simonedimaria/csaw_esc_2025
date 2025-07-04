@@ -17,7 +17,7 @@ ESC 2025 will be held in four regions: US-Canada, Europe, and India, with the fi
 -   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
-The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts and Rostin Shokri, who are also the US-Canada region challenge leads.
+The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts and Rostin Shokri, who are also the US-Canada region challenge leads, along with Julian Lenis (ESC Contributor).
 In Europe, the competition is organized by Amir-Pasha Mirbaha (Grenoble INP).
 In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Dipesh as the regional challenge lead.
 
@@ -25,7 +25,7 @@ In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee
 
 This year's ESC focuses on side channel attacks (SCAs) and fault injection attacks (FIAs), which can be employed to exfiltrate private information from hardware. These classes of attacks have been demonstrated to leak entire encryption keys from popular cryptographic hardware, such as AES. The 2025 event comprises a qualification and a final phase where teams will be able to learn about these attacks in a controlled and safe environment using a **Chipwhisperer Nano**  board.
 
-Further details and specifics can be found on the [challenge description](challenge_description.md) page.
+Further details and specifics can be found on the [challenge description](Challenge_Description.md) page.
 
 ## Registration
 
