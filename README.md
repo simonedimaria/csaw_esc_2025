@@ -5,6 +5,7 @@ CSAW 2025 Embedded Security Challenge (ESC)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/deliverables.md)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/Challenge_Description.md)
+* [Qualification](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/challenges/qualification/)
 * [csaw.io/esc](https://www.csaw.io/esc)
 
 ## Overview

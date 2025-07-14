@@ -17,7 +17,7 @@ See below for more details on the requirements of each phase.
 
 ### Qualification Phase
 
-For the qualification phase, teams should submit a **short report** that outlines potential approaches, techniques, and mitigations of the provided short qualification challenge. Successful reports should include a discussion of existing techniques, a clear outline of attack methodologies, and a discussion of how the corresponding attacks could be mitigated.
+For the qualification phase, teams should submit a **short report** that outlines potential approaches, techniques, and mitigations of the [provided short qualification challenge](https://github.com/TrustworthyComputing/csaw_esc_2025/tree/main/challenges/qualification). Successful reports should include a discussion of existing techniques, a clear outline of attack methodologies, and a discussion of how the corresponding attacks could be mitigated.
 
 Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of reported techniques, as well as the completeness and quality of the compiled report.
 
