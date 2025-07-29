@@ -58,7 +58,7 @@ For more registration information, policies, deadlines, and for information for 
 ---
 
 ## Acknowledgments
-The development this competition was supported by the National Science Foundation (Award #2234974).
+The development this competition was supported by the National Science Foundation (Awards #2234974, #2336586).
 
 ## Partner institutions
 
