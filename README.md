@@ -24,7 +24,7 @@ In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee
 
 ## Challenge Summary
 
-This year's ESC focuses on side channel attacks (SCAs) and fault injection attacks (FIAs), which can be employed to exfiltrate private information from hardware. These classes of attacks have been demonstrated to leak entire encryption keys from popular cryptographic hardware, such as AES. The 2025 event comprises a qualification and a final phase where teams will be able to learn about these attacks in a controlled and safe environment using a **Chipwhisperer Nano**  board.
+**This year, we are unleashing the power of AI:** participants are encouraged to leverage deep learning and Large Language Models to automate hardware attacks, and design intelligent defenses in a new era of silicon warfare. The competition will focus on applying these cutting-edge techniques to classic hardware security problems, including side channel attacks (SCAs) and fault injection attacks (FIAs), which can be employed to exfiltrate private information from hardware. The 2025 event comprises a qualification and a final phase where teams will be able to learn about these attacks in a controlled and safe environment using a **Chipwhisperer Nano**  board.
 
 Further details and specifics can be found on the [challenge description](Challenge_Description.md) page.
 
