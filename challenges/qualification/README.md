@@ -5,6 +5,7 @@ For this challenge, teams are given the source code implementing a vulnerable pa
 The goal of this phase is **not** to fully solve the challenge, but to describe **how** to solve it, including:
 
 - How you would approach breaking this system using side-channel or fault injection attacks.
+- How deep learning and Large Language Models can be used to automate these attacks.
 - Which techniques and measurements you would use (e.g., timing, power traces, correlation, differential analysis, fault injection).
 - Which variables or operations in the code are likely to leak sensitive information.
 - Prior work or relevant literature that informs your methodology.
